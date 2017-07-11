@@ -35,3 +35,5 @@ print("message sent successfully!")
 reply = s.recv(4096)
 print(reply)
 s.close()
+
+#actually a local client for socket applications
