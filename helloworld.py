@@ -11,3 +11,5 @@ fo = open("abc.txt", "w")
 # 关闭打开的文件
 fo.close()
 print (os.getcwd())
+
+print('hello')
