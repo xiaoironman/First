@@ -2,6 +2,8 @@ import tkinter as tk
 
 fields = ["StellaNGC commands", "Receiver commands", "Main script"]
 
+print('another hello')
+
 class Application(tk.Frame):
     def __init__(self, master=None):  # 构造函数
         tk.Frame.__init__(self, master)
