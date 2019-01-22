@@ -133,3 +133,5 @@ root.geometry("400x600+100+0")
 root.title("StellaNGC Test Tool")
 app = Application(master=root)  # 创建Application对象实例
 app.mainloop()  # 事件循环
+
+#comment
